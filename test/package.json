@@ -18,7 +18,7 @@
     "bedrock-key": "^4.0.0",
     "bedrock-ledger-agent": "file:..",
     "bedrock-ledger-consensus-continuity": "digitalbazaar/bedrock-ledger-consensus-continuity#multihash",
-    "bedrock-ledger-consensus-uni": "digitalbazaar/bedrock-ledger-consensus-uni#multihash",
+    "bedrock-ledger-consensus-uni": "digitalbazaar/bedrock-ledger-consensus-uni#master",
     "bedrock-ledger-context": "^1.0.0",
     "bedrock-ledger-node": "digitalbazaar/bedrock-ledger-node#multihash",
     "bedrock-ledger-storage-mongodb": "github:digitalbazaar/bedrock-ledger-storage-mongodb#multihash",
